@@ -1,0 +1,57 @@
+body{
+    
+    margin: 0;
+    
+}
+
+.main-heading{
+    background-color: greenyellow;
+    color: black;
+    display: inline-block;
+    box-sizing: border-box;
+    
+    
+}
+
+.menubar{
+   background-color: blueviolet;
+    color: black;
+    height: 200px;
+    width: 100px;
+
+    
+    
+}
+
+.navigation{
+    background-color: blue;
+    color: black;
+    display: inline-block;
+    padding: 1%;
+    width: 25%
+}
+
+.main{
+    background-color: blueviolet;
+    color: black;
+    width: 20px;
+    height: 25%;
+    box-sizing: border-box;
+    padding: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
